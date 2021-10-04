@@ -1,7 +1,8 @@
+
 .banner{
     background-image: url("../../images/man-with-laptop.png");
     background-repeat: no-repeat;
-    background-size:contain;
+    background-size: contain;
     background-position: top right;
     padding: 70px 0px;
 }
