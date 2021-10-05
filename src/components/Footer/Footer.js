@@ -11,10 +11,10 @@ const Footer = () => {
                             <h3>Resources</h3>
                             <div>
                                 <ul className="footer-area">
-                                    <li><i class="fas fa-square"></i> Become A Teacher</li>
-                                    <li><i class="fas fa-square"></i> Instructor/Student Profile</li>
-                                    <li><i class="fas fa-square"></i> Courses</li>
-                                    <li><i class="fas fa-square"></i> LP Checkout</li>
+                                    <li><i className="fas fa-square"></i> Become A Teacher</li>
+                                    <li><i className="fas fa-square"></i> Instructor/Student Profile</li>
+                                    <li><i className="fas fa-square"></i> Courses</li>
+                                    <li><i className="fas fa-square"></i> LP Checkout</li>
                                 </ul>
                             </div>
                         </div>
@@ -22,20 +22,20 @@ const Footer = () => {
                     <Col>
                         <h3>Explore</h3>
                         <ul className="footer-area">
-                            <li><i class="fas fa-square"></i> Home</li>
-                            <li><i class="fas fa-square"></i> Blog</li>
-                            <li><i class="fas fa-square"></i> Privacy Policy</li>
-                            <li><i class="fas fa-square"></i> Courses</li>
+                            <li><i className="fas fa-square"></i> Home</li>
+                            <li><i className="fas fa-square"></i> Blog</li>
+                            <li><i className="fas fa-square"></i> Privacy Policy</li>
+                            <li><i className="fas fa-square"></i> Courses</li>
                         </ul>
                     </Col>
                     <Col>
                         <div>
                             <p>Working to bring significant changes in online-based learning by doing extensive research for course curriculum preparation!</p>
                             <ul className="social-icon">
-                                <li><i class="fab fa-facebook"></i></li>
-                                <li><i class="fab fa-instagram"></i></li>
-                                <li><i class="fab fa-youtube"></i></li>
-                                <li><i class="fab fa-linkedin"></i></li>
+                                <li><i className="fab fa-facebook"></i></li>
+                                <li><i className="fab fa-instagram"></i></li>
+                                <li><i className="fab fa-youtube"></i></li>
+                                <li><i className="fab fa-linkedin"></i></li>
                             </ul>
                         </div>
                     </Col>

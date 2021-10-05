@@ -81,7 +81,7 @@ const Header = () => {
                     </Col>
                     <Col md={2}>
                         <div>
-                            <Button className="register"><i class="far fa-user"></i> Login/Register</Button>
+                            <Button className="register"><i className="far fa-user"></i> Login/Register</Button>
                         </div>
                     </Col>
                 </Row>
