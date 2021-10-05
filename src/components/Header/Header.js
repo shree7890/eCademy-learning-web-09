@@ -23,6 +23,10 @@ const Header = () => {
                             <ul className="menu">
                                 <li>
                                     <NavLink
+                                        activeStyle={{
+                                            fontWeight: "bold",
+                                            color: "red"
+                                        }}
                                         to="/home"
                                     >
                                         Home
@@ -30,6 +34,10 @@ const Header = () => {
                                 </li>
                                 <li>
                                     <NavLink
+                                        activeStyle={{
+                                            fontWeight: "bold",
+                                            color: "red"
+                                        }}
                                         to="/about"
                                     >
                                         About Us
@@ -37,6 +45,10 @@ const Header = () => {
                                 </li>
                                 <li>
                                     <NavLink
+                                        activeStyle={{
+                                            fontWeight: "bold",
+                                            color: "red"
+                                        }}
                                         to="/services"
                                     >
                                         Services
@@ -44,6 +56,10 @@ const Header = () => {
                                 </li>
                                 <li>
                                     <NavLink
+                                        activeStyle={{
+                                            fontWeight: "bold",
+                                            color: "red"
+                                        }}
                                         to="/blogs"
                                     >
                                         Blogs
@@ -51,6 +67,10 @@ const Header = () => {
                                 </li>
                                 <li>
                                     <NavLink
+                                        activeStyle={{
+                                            fontWeight: "bold",
+                                            color: "red"
+                                        }}
                                         to="/contact"
                                     >
                                         Contact
